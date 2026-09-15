@@ -1,0 +1,6 @@
+{
+  "name": "Vibely",
+  "description": "Connect. Create. Share. Modern social media platform featuring feeds, stories, explore, direct messaging, rich creator profiles, and real-time social interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
